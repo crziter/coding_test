@@ -1,0 +1,4 @@
+Flask
+zmq
+flask-cors
+flask_sqlalchemy
